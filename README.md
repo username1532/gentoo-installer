@@ -1,4 +1,5 @@
 # gentoo-installer
 Tui installer for Gentoo Linux 
 
-<img width="1003" height="1204" alt="image" src="https://github.com/user-attachments/assets/f283bd33-dbe9-455e-b1e8-3730dbc4f1a6" />
+<img width="456" height="547" alt="preview-removebg-preview" src="https://github.com/user-attachments/assets/6635ba73-b6b6-4e5e-af37-d032f023eb14" />
+
