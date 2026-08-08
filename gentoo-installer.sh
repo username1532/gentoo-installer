@@ -1,14 +1,9 @@
 #!/usr/bin/env bash
 #
 # gentoo-installer.sh
-# A dialog(1)-driven TUI installer for Gentoo Linux, modeled on Void's
-# void-installer: a single portable script, a main menu of independent
-# steps each showing its current value/status, and a final commit step
-# that runs the whole install non-interactively from the gathered config.
-#
 # Run as root from a Gentoo (or any) live environment with network access.
 # Requires: dialog, parted, curl, gawk, coreutils. Nothing else.
-#
+# if you are reading this thanks for using my installer sh ;)
 set -uo pipefail
 
 # ---------------------------------------------------------------------------
