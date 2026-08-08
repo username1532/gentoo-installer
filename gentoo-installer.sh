@@ -2,7 +2,7 @@
 #
 # gentoo-installer.sh
 # Run as root from a Gentoo (or any) live environment with network access.
-# Requires: dialog, parted, curl, gawk, coreutils. Nothing else.
+# Requires: dialog, parted, curl, gawk, coreutils. Nothing else
 # if you are reading this thanks for using my installer sh ;)
 set -uo pipefail
 
